@@ -1,7 +1,59 @@
-- Hi, I’m Ellis Simmons A.K.A: esimmons1, I enjoy playing video games, coding, playing the trumpet, 3d printing, and solving Rubiks Cubes.
-- I also like making paper airplanes and Mountain Biking.
-- Visit https://esimmons1.github.io for more! Thank you for reading.
-<!---
-esimmons1/esimmons1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hey there 👋, I'm Ellis Simmons!</h1>
+<p align="center">
+  <img src="https://ellissimmons.github.io/assets/hello-world-banner.png" alt="Welcome banner" />
+</p>
+
+---
+
+### 🎯 About Me
+
+🧑‍💻 **Student | Developer | Tech Enthusiast | Creator**  
+🎓 Currently studying IT, planning to major in Computer Engineering  
+🧠 Passionate about:
+- Embedded systems & hardware
+- Programming (Java, C, Python, MIPS Assembly)
+- Particle animations & creative coding (Processing)
+- Open-source collaboration
+
+💬 Ask me about:
+- Particle physics animations
+- MIPS programming & debugging
+- Java backends and API projects
+- BBQ and why vinegar sauce is elite 🔥🍖
+
+---
+
+### 🚀 Current Projects
+- 🧪 Building a **user-driven gas price tracking page**
+- ⚙️ Designing **particle physics demos in Processing**
+- 💾 Playing with **low-level systems & MIPS Assembly**
+- 🔄 Merging creative visuals with interactive controls
+
+---
+
+### 🛠️ Tech Stack
+
+```plaintext
+Languages:   Java • C • Python • MIPS Assembly • HTML/CSS/JS
+Tools/Tech:  Processing • Git • VSCode • Firebase • GitHub Actions
+```
+
+---
+
+### 📫 Let's Connect
+
+📍 **Location:** USA  
+📧 **Email:** ellis.simmons.dev [at] gmail [dot] com  
+🌐 **Portfolio:** [ellissimmons.github.io](https://ellissimmons.github.io)
+
+> 💡 _"Every frame rendered, every bug squashed—just another step in the infinite loop of learning."_
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=esimmons1&style=flat-square&color=blue" alt="Profile views" />
+</p>
