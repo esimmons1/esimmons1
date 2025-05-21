@@ -47,7 +47,7 @@ Tools/Tech:  Processing • Git • VSCode • Firebase • GitHub Actions
 📧 **Email:** simmons.ellis@gmail.com  
 🌐 **Portfolio:** [ellissimmons.github.io](https://ellissimmons.github.io)
 
-> 💡 _"Every frame rendered, every bug squashed—just another step in the infinite loop of learning."_
+> 💡 _"Coding, crashing, learning. Whether it's drones, code, 3d printers, or computers, the rebuild's half the fun."_
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif"/>
