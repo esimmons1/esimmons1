@@ -41,9 +41,9 @@ Tools/Tech:  Processing • Git • VSCode • Firebase • GitHub Actions
 
 ---
 
-### 📫 Let's Connect
+### 📫 My Contact info:
 
-📍 **Location:** USA  
+📍 **Location:** Pittsburgh, PA (USA)  
 📧 **Email:** simmons.ellis@gmail.com  
 🌐 **Portfolio:** [ellissimmons.github.io](https://ellissimmons.github.io)
 
