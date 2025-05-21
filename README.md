@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Ellis Simmons!</h1>
 <p align="center">
-  <img src="https://ellissimmons.github.io/assets/hello-world-banner.png" alt="Welcome banner" />
+  <img src="github-header-image.png" alt="Welcome banner" />
 </p>
 
 ---
