@@ -13,12 +13,13 @@
 - Embedded systems & hardware
 - Programming (Java, C, Python, MIPS Assembly)
 - Particle animations & creative coding (Processing)
-- Open-source collaboration
+- BBQing
+- FPV Drones & Rubiks Cubes
 
 💬 Ask me about:
 - Particle physics animations
-- MIPS programming & debugging
-- Java backends and API projects
+- Computers and computer technology
+- 3D Printing
 - BBQ and why vinegar sauce is elite 🔥🍖
 
 ---
