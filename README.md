@@ -7,7 +7,7 @@
 
 ### 🎯 About Me
 
-🧑‍💻 **Student | Developer | Tech Enthusiast | Creator**  
+ **Student | Developer | Tech Enthusiast | Photographer | Pitmaster**  
 🎓 Currently studying IT, planning to major in Computer Engineering  
 🧠 Passionate about:
 - Embedded systems & hardware
