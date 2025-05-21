@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Ellis Simmons!</h1>
+<h1 align="center">Hello, Thank you for reading!</h1>
 <p align="center">
   <img src="github-header-image.png" alt="Welcome banner" />
 </p>
