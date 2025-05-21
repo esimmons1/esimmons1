@@ -13,7 +13,7 @@
 - Embedded systems & hardware
 - Programming (Java, C, Python, MIPS Assembly)
 - Particle animations & creative coding (Processing)
-- BBQing
+- Cooking & Grilling
 - FPV Drones & Rubiks Cubes
 
 💬 Ask me about:
