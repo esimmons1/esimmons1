@@ -45,7 +45,7 @@ Tools/Tech:  Processing • Git • VSCode • Firebase • GitHub Actions
 
 📍 **Location:** Pittsburgh, PA (USA)  
 📧 **Email:** simmons.ellis@gmail.com  
-🌐 **Portfolio:** [ellissimmons.github.io]([https://esimmons1.github.io])
+🌐 **Portfolio:** [ellissimmons.github.io]([[https://esimmons1.github.io]](https://esimmons1.github.io))
 
 > 💡 _"Coding, crashing, learning. Whether it's drones, code, 3d printers, or computers, the rebuild's half the fun."_
 
