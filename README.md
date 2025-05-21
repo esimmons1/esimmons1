@@ -44,7 +44,7 @@ Tools/Tech:  Processing • Git • VSCode • Firebase • GitHub Actions
 ### 📫 Let's Connect
 
 📍 **Location:** USA  
-📧 **Email:** ellis.simmons.dev [at] gmail [dot] com  
+📧 **Email:** simmons.ellis@gmail.com  
 🌐 **Portfolio:** [ellissimmons.github.io](https://ellissimmons.github.io)
 
 > 💡 _"Every frame rendered, every bug squashed—just another step in the infinite loop of learning."_
