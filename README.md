@@ -29,7 +29,8 @@
 - ⚙️ Designing **particle physics demos in Processing**
 - 💾 Playing with **low-level systems & MIPS Assembly**
 - 🔄 Merging creative visuals with interactive controls
-
+- 🖥️ Perpetually building PCs and Drones
+  
 ---
 
 ### 🛠️ Tech Stack
