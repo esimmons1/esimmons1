@@ -53,7 +53,7 @@ Tools/Tech:  Processing • Git • VSCode • Firebase • GitHub Actions
 > 💡 _"Coding, crashing, learning. Whether it's drones, code, 3d printers, or computers, the rebuild's half the fun."_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWx0NDluZG9lNngwa2c1bDZsejAyNHg3dnBzOHlycjg1M3d3cGRvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="250" alt="Coding gif"/>
 </p>
 
 ---
