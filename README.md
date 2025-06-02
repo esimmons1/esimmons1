@@ -8,15 +8,16 @@
 ### 🎯 About Me
 
  **Student | Developer | Tech Enthusiast | Photographer | Pitmaster**  
-🎓 Currently studying IT, planning to major in Computer Engineering  
-🧠 Passionate about:
+🎓 Currently studying IT, planning to major in Computer Engineering 
+
+**🧠 Passionate about:**
 - Embedded systems & hardware
 - Programming (Java, C, Python, MIPS Assembly)
 - Particle animations & creative coding (Processing)
 - Cooking & Grilling
 - FPV Drones & Rubiks Cubes
 
-💬 Ask me about:
+**💬 Ask me about:**
 - Particle physics animations
 - Computers and computer technology
 - 3D Printing
@@ -25,11 +26,12 @@
 ---
 
 ### 🚀 Current Projects
-- 🧪 Building a **user-driven gas price tracking page**
-- ⚙️ Designing **particle physics demos in Processing**
-- 💾 Playing with **low-level systems & MIPS Assembly**
-- 🔄 Merging creative visuals with interactive controls
-- 🖥️ Perpetually building PCs and Drones
+- Building a **user-driven gas price tracking page**
+- Building an **encoder and decoder** for sharing secret messages with friends
+- Designing **physics demos in Processing**
+- Playing with **low-level systems & MIPS Assembly**
+- Merging creative visuals with interactive controls
+- Perpetually building PCs and Drones
   
 ---
 
