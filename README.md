@@ -41,7 +41,7 @@
 Languages:   Java • C • Python • MIPS Assembly • HTML/CSS/JS
 Tools/Tech:  Processing • Git • VSCode • Firebase • GitHub Actions
 ```
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esimmons1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 📫 My Contact info:
